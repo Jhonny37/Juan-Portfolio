@@ -25,7 +25,7 @@ Integrated AI suggestions for infill patterns, wall thickness, and temperature t
 
 **Technologies:** Python, Creality Slicer, G-code editing  
 **Highlights:** Improved part strength by 25% while reducing material use.  
-[View Project](#)  
+[View Project](https://github.com/Jhonny37/Juan-Portfolio/tree/main/Parameters PLA) 
 
 ---
 
