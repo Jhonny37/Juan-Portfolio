@@ -14,7 +14,7 @@ Includes custom scripts for flight stability calculations, structural optimizati
 
 **Technologies:** SolidWorks API, Python, OpenFOAM, G-code optimization  
 **Highlights:** Automated process reduces prototyping time by 40%.  
-[View Project](#)  
+[View Project](https://github.com/Jhonny37/Juan-Portfolio/tree/main/UAV-Design)
 
 ---
 
@@ -41,6 +41,6 @@ I regularly integrate AI into my daily engineering work, using it to:
 ---
 
 ## 📬 Contact
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your Email]
+- **LinkedIn:** www.linkedin.com/in/juan-esteban-parra-pérez-2a1aa31a4
+- **Email:** jhonny07032003@gmail.com
 - **GitHub:** [https://github.com/Jhonny37](https://github.com/Jhonny37)
