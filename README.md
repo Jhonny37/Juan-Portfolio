@@ -32,11 +32,13 @@ Integrated AI suggestions for infill patterns, wall thickness, and temperature t
 ### 3. CubeSat Design
 CubeSat Structural and Systems Design
 This project involved the complete mechanical and structural design of a CubeSat, including frame, paneling, and internal component layout. The design incorporates lightweight, high-strength lattice structures for weight reduction while maintaining rigidity.
+
 **Key Features:**
 Structural Optimization: Use of topology-optimized lattice frames to minimize mass and maximize stiffness.
 Subsystem Integration: Arrangement and mounting of electronic boards, power systems, and payload modules for efficient internal space usage.
 Thermal and Mechanical Considerations: Component placement designed to reduce thermal stress and improve vibration resistance during launch.
 CAD & Analysis Tools: Developed in advanced CAD software with integrated mechanical simulations for load and stress verification.
+
 **Technologies:** Creo Parametric, CAD modeling, structural analysis, topology optimization.
 [View Project](https://github.com/Jhonny37/Juan-Portfolio/tree/main/CubeSat-Design)
 
