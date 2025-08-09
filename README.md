@@ -39,7 +39,7 @@ Subsystem Integration: Arrangement and mounting of electronic boards, power syst
 Thermal and Mechanical Considerations: Component placement designed to reduce thermal stress and improve vibration resistance during launch.
 CAD & Analysis Tools: Developed in advanced CAD software with integrated mechanical simulations for load and stress verification.
 
-**Technologies:** Creo Parametric, CAD modeling, structural analysis, topology optimization.
+**Technologies:** Creo Parametric, CAD modeling, structural analysis, topology optimization..
 [View Project](https://github.com/Jhonny37/Juan-Portfolio/tree/main/CubeSat-Design)
 
 ---
